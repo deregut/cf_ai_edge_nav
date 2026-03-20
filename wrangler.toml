@@ -1,6 +1,6 @@
 name = "cf_ai_edge_nav"
 main = "src/index.ts"
-compatibility_date = "2026-03-20"
+compatibility_date = "2026-02-24"
 
 [ai]
 binding = "AI"
